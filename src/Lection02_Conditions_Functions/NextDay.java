@@ -5,7 +5,7 @@
 Форматирование строки "День.Месяц.Год" вынести в отдельную функцию.
 
  */
-package Lection02;
+package Lection02_Conditions_Functions;
 
 import java.time.LocalDate;
 

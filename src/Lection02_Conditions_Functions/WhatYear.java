@@ -9,7 +9,7 @@
     2000 - високосный
 
  */
-package Lection02;
+package Lection02_Conditions_Functions;
 
 public class WhatYear {
 

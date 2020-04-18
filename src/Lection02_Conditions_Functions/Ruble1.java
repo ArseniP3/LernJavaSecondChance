@@ -4,7 +4,7 @@
 a. Использовать конструкцию if-else.
 b. Модифицировать в switch в отдельном файле.
  */
-package Lection02;
+package Lection02_Conditions_Functions;
 public class Ruble1 {
 
     static void ifConstruct(int rub){

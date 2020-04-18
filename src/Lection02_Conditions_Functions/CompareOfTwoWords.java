@@ -4,7 +4,7 @@
 Если они отличаются, но одной длины - "Ну, хотя бы они одной длины"
 Использовать методы класса String: equals(String string), equalsIgnoreCase(String string), length()
  */
-package Lection02;
+package Lection02_Conditions_Functions;
 
 import java.util.Scanner;
 

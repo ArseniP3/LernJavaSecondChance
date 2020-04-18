@@ -7,7 +7,7 @@
 Апрель, июнь, сентябрь, ноябрь - 30 дней
 Февраль - 28 дней в обычный год, 29 дней в високосный
  */
-package Lection02;
+package Lection02_Conditions_Functions;
 
 public class RealDate {
 

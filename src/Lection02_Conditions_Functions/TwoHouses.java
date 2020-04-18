@@ -3,7 +3,7 @@
 Проверить, помещаются ли эти дома на участке размерами e на f.
 Стороны домов - параллельны сторонам участка, в остальном размещение может быть любым.
  */
-package Lection02;
+package Lection02_Conditions_Functions;
 
 public class TwoHouses {
 

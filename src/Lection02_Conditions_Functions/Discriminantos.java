@@ -7,7 +7,7 @@
     - функция discriminant, вычисляющая дискриминант
 
  */
-package Lection02;
+package Lection02_Conditions_Functions;
 
 public class Discriminantos {
 
@@ -22,14 +22,13 @@ public class Discriminantos {
         this.c = c;
     }
 
-    public double discriminant (){
+    public void discriminant (){
         if(a!=0){
             dis = (b*b) - 4 * a * c;
             System.out.println("Дискриминант квадратного уравнения: " + a + "x2+"+ b + "х+"+ c + "=0; равен: " + dis );
         }else {
             System.out.println("А не может быть равно 0");
         }
-        return dis;
     }
 
     public void searchRoots(){
